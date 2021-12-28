@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Kashti</h1>
 <h3 align="center">A CSE Student</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kashtiyash&label=Profile%20views&color=0e75b6&style=flat" alt="kashtiyash" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kashtiyash&label=Profile%20views&color=0e75b6&style=flat" alt="kashtiyash" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/kashtiyash](https://github.com/kashtiyash)
 
