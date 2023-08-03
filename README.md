@@ -15,8 +15,11 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=kashtiyash&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kashtiyash&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kashtiyash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=false&order=2" height="170" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=kashtiyash&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
